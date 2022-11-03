@@ -1,0 +1,12 @@
+Instalar la extension C#
+
+1.- dotnet new console para crear nuestro proyecto
+2.- dotnet run para ejecutar nuestro proyecto
+
+Nota adicional:
+    dotnet new nos arroja diferentes plantillas para el desarrollo
+
+
+Conexion a SQL
+    Instalar el siguiente paquete ejemplo:
+        dotnet add package System.Data.SqlClient --version 4.8.4
